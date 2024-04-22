@@ -4,5 +4,5 @@ function mostrarMensaje(N) {
     }
 }
 
-// Ejemplo de uso: mostrar el mensaje 5 veces
+
 mostrarMensaje(5);
