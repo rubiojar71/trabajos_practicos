@@ -12,5 +12,4 @@ function imprimirElDobleDelSiguiente(numero) {
     console.log("El doble del valor siguiente a", numero, "es:", dobleDelSiguiente);
 }
 
-// Ejemplo de uso:
 imprimirElDobleDelSiguiente(3);
