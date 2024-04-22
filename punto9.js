@@ -17,5 +17,4 @@ function imprimirElDobleDelSiguienteAlCuadrado(numero) {
     console.log("El valor siguiente al doble del cuadrado de", numero, "es:", siguienteAlDobleDelCuadrado);
 }
 
-// Ejemplo de uso:
 imprimirElDobleDelSiguienteAlCuadrado(2);
